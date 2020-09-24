@@ -1,7 +1,11 @@
 {
   "name": "kuz-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kuz's CLI interface.",
+
+  "dependencies": {
+    "kuz": "^0.1.0"
+  },
 
   "main": "index.js",
   "bin": {
