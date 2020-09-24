@@ -2,6 +2,8 @@
 
 'use strict';
 
-console.log("Welcome to kuz-cli 0.1.0");
+const KuzApp = require("kuz");
+const kuz = new KuzApp();
+kuz.run();
 
 
