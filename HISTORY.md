@@ -1,26 +1,26 @@
 
 0.1.5 / 28-09-2020
 ====================
-	* Updated dependency: `kuz` to `0.2.5`
+  * Updated dependency: `kuz` to `0.2.5`
 
 0.1.4 / 26-09-2020
 ====================
-	* Updated dependency: `kuz`
+  * Updated dependency: `kuz`
 
 0.1.3 / 26-09-2020
 ====================
-	* Added author email
+  * Added author email
 
 0.1.2 / 25-09-2020
 ====================
-	* Now running `kuz.run()`
+  * Now running `kuz.run()`
 
 0.1.1 / 24-09-2020
 ====================
-	* Added dependency
+  * Added dependency
 
 0.1.0 / 24-09-2020
 ====================
-	* Hello, World!
+  * Hello, World!
 
 
