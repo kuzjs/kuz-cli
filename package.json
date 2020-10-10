@@ -1,6 +1,6 @@
 {
   "name": "kuz-cli",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Kuz's CLI interface.",
 
   "dependencies": {
@@ -34,7 +34,7 @@
 
   "author": {
     "name": "Ankur Seth",
-    "email": "madhumeya@gmail.com"
+    "email": "iankurseth@gmail.com"
   },
   "license": "MIT",
 
